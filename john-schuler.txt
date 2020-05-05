@@ -1,4 +1,4 @@
-https://codepen.io/johnschuler/pen/ExVodjB?editors=1100
+https://codepen.io/johnschuler/pen/JjYPYKW
 
     1. What is Semantic HTML? 
     Html that gives meaning to our content. 
